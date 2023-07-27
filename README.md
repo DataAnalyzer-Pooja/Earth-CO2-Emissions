@@ -12,7 +12,7 @@ The dataset used in this project has been downloaded from 'Our World in Data'. T
 # Business Task
 Use this dataset for data cleaning, exploration and visualization to uncover the emission insights. Following questions needed to be answered by this analysis.
 1. How have countries or regions carbon dioxide emission profiles changed over the years?
-2. Have any countries or regions experienced significant changes in their emission per capita ratio over time?
+2. Has any country or region experienced significant changes in its emission per capita ratio over time?
 3. What are the main drivers of carbon dioxide emissions in the dataset? Is it primarily attributed to specific industries or fuel types?
 4. Have there been any notable shifts in the usage of different fuels for energy production and how have these changes impacted carbon dioxide emissions?
 5. Has there been any shift in the energy consumption per GDP (Gross Domestic Product) ratio over time? How does this relate to changes in carbon dioxide emissions?
@@ -21,24 +21,15 @@ Use this dataset for data cleaning, exploration and visualization to uncover the
 # Deliverables
 The project includes the following:-
 1. [Dataset](https://github.com/owid/co2-data) on GitHub.
-2. [Dataset](https://github.com/owid/co2-data/blob/master/owid-co2-codebook.csv)  codebook.
+2. [Dataset](https://github.com/owid/co2-data/blob/master/owid-co2-codebook.csv) codebook.
 3. [Power BI Dashboard]( ).
 
 # Project Highlights
-1. Emission per capita insight provides the average carbon footprint of an individual country or region for identifying areas for targeted emission reduction efforts.
-2. Analysis of emission trends across fuel and industry provides insights about the pattern of emissions over the last 10 years.
-3. Analysis of emissions against GDP provides insight about the carbon footprint and economic output which enables the enrgy
+1. Emission per capita insight provides the annual carbon footprint of an individual country or region for identifying areas for targeted emission reduction efforts.
+2. Analysis of emission trends across different fuels and industries provides insights into the patterns of emissions over the last 10 years.
+3. Analysis of emissions relative to GDP provides insight into the carbon footprint and economic output which enables energy efficiency assessment and development levels. 
 
-Profit & Loss Statement provides insights to the finance team about the financial performance across customers, products, and markets.
-Analysis of customer and product performance over key metrics like net sales and gross margin.
-Analysis of sales forecast accuracy, net error and risk profile provides insights for supply chain management.
-Consolidated top insights from each dimension of business for company executives.
-
-
-
-
-
-## Findings & Recommendations have been enclosed in the attached presentation. 
+## Findings & Recommendations have been enclosed in the attached Power BI Report. 
 
 I hope this project helps you understand carbon dioxide emission trends. If you have any questions or suggestions, please don't hesitate to reach out.
 - [LinkedIn](https://www.linkedin.com/in/contact-analyzer-pooja-verma)  
