@@ -22,7 +22,7 @@ Use this dataset for data cleaning, exploration and visualization to uncover the
 The project includes the following:-
 1. [Dataset](https://github.com/owid/co2-data) from GitHub.
 2. [Dataset](https://github.com/owid/co2-data/blob/master/owid-co2-codebook.csv) codebook.
-3. [Power BI Dashboard](https://www.novypro.com/project/earths-co2-emissions).
+3. [Power BI Dashboard](https://www.novypro.com/project/earths-co2-emissions-power-bi).
 
 # Project Highlights
 1. Emission per capita insight provides the annual carbon footprint of an individual country or region for identifying areas for targeted emission reduction efforts.
