@@ -29,9 +29,9 @@ Welcome to the carbon dioxide emission data analysis case study as a part of the
 
 
 
-## Findings & Recommendations has been enclosed in the attached presentation. 
+## Findings & Recommendations have been enclosed in the attached presentation. 
 
-I hope this project helps you understand the methane emission trends. If you have any questions or suggestions, please don't hesitate to reach out.  
+I hope this project helps you understand carbon dioxide emission trends. If you have any questions or suggestions, please don't hesitate to reach out.
 - [LinkedIn](https://www.linkedin.com/in/contact-analyzer-pooja-verma)  
 - [NovyPro](https://www.novypro.com/profile_projects/poojaverma)
 
