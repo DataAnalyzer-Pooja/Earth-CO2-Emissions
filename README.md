@@ -1,9 +1,9 @@
 # Earth-CO2-Emissions
-This project aims to thoroughly understand the worldwide carbon dioxide emission landscape, the complexities of emissions and their significance in shaping our planet's future. 
+This project aims to thoroughly understand the worldwide carbon dioxide emission landscape, the complexities of emissions and their significance in shaping our planet's future.
 Welcome to the carbon dioxide emission data analysis case study as a part of the Portfolio Project of DataAnalyzer-Pooja.
 
 # Problem Statement
-
+Global warming is one of the biggest challenges currently being faced by the human race. The problem at hand for this CO2 Emissions project is to comprehensively investigate and analyze the increasing carbon dioxide (CO2) emissions, which have emerged as a major contributor to global warming and climate change. Through this project, we will dive into the trends and patterns to look for valuable insights to understand their impact on the environment. 
 
 
 
