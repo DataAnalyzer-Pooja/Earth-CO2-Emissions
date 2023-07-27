@@ -4,10 +4,10 @@ This project aims to thoroughly understand the worldwide carbon dioxide emission
 Welcome to the carbon dioxide emission data analysis case study as a part of the Portfolio Project of DataAnalyzer-Pooja.
 
 # Problem Statement
-Global warming is one of the biggest challenges currently being faced by humanity. Therefore, there is an urgent need to address this issue by understanding the trends and patterns of carbon dioxide emissions globally. The problem at hand for this CO2 Emission project is to comprehensively investigate and analyze the increasing carbon dioxide (CO2) emissions, which have emerged as a major contributor to global warming and climate change. Through this project, we will uncover valuable insights to understand their impact on the environment.
+Global warming is one of the biggest challenges currently being faced by humanity. Therefore, there is an urgent need to address this issue by understanding the trends and patterns of carbon dioxide emissions globally. The problem at hand for this CO2 emissions project is to comprehensively investigate and analyze the increasing carbon dioxide (CO2) emissions, which have emerged as a major contributor to global warming and climate change. Through this project, we will uncover valuable insights to understand their impact on the environment.
 
 # About Dataset
-The dataset used in this project has been downloaded from 'Our World in Data'. The dataset contains time-series data ranging from 1921 to 2020, having information on carbon dioxide emissions across various countries, regions, fuels and industries globally. This dataset helps us to understand how carbon dioxide emissions have evolved over the years and which areas and industries contribute the most. By analyzing this data, we can gain valuable insights to tackle the problem of carbon dioxide emissions and work towards reducing its impact on the environment.
+The dataset used in this project has been downloaded from 'Our World in Data'. The dataset contains time-series data ranging from 1921 to 2020 and contains information on carbon dioxide emissions across various countries, regions, fuels and industries globally. This dataset helps us to understand how carbon dioxide emissions have evolved over the years and which areas and industries contribute the most. By analyzing this data, we can gain valuable insights to tackle the problem of carbon dioxide emissions and work towards reducing its impact on the environment.
 
 # Business Task
 Use this dataset for data cleaning, exploration and visualization to uncover the emission insights. Following questions needed to be answered by this analysis.
@@ -24,7 +24,15 @@ The project includes the following:-
 2. [Dataset](https://github.com/owid/co2-data/blob/master/owid-co2-codebook.csv)  codebook.
 3. [Power BI Dashboard]( ).
 
-# Process
+# Project Highlights
+1. Emission per capita insight provides the average carbon footprint of an individual country or region for identifying areas for targeted emission reduction efforts.
+2. Analysis of emission trends across fuel and industry provides insights about the pattern of emissions over the last 10 years.
+3. Analysis of emissions against GDP provides insight about the carbon footprint and economic output which enables the enrgy
+
+Profit & Loss Statement provides insights to the finance team about the financial performance across customers, products, and markets.
+Analysis of customer and product performance over key metrics like net sales and gross margin.
+Analysis of sales forecast accuracy, net error and risk profile provides insights for supply chain management.
+Consolidated top insights from each dimension of business for company executives.
 
 
 
