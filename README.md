@@ -14,14 +14,15 @@ Use this dataset for data cleaning, exploration and visualization to uncover the
 1. How have countries or regions carbon dioxide emission profiles changed over the years?
 2. Have any countries or regions experienced significant changes in their emission per capita ratio over time?
 3. What are the main drivers of carbon dioxide emissions in the dataset? Is it primarily attributed to specific industries or fuel types?
-4. Has there been any shift in the energy consumption per GDP (Gross Domestic Product) ratio over time? How does this relate to changes in carbon dioxide emissions?
-5. Is there any correlation between a country's GDP (Gross Domestic Product) and its carbon dioxide emissions? How has this relationship evolved over the years?
+4. Have there been any notable shifts in the usage of different fuels for energy production and how have these changes impacted carbon dioxide emissions?
+5. Has there been any shift in the energy consumption per GDP (Gross Domestic Product) ratio over time? How does this relate to changes in carbon dioxide emissions?
+6. Is there any correlation between a country's GDP (Gross Domestic Product) and its carbon dioxide emissions? How has this relationship evolved over the years?
    
 # Deliverables
 The project includes the following:-
-1. [Dataset] on GitHub (https://github.com/owid/co2-data).
-2. [Dataset] codebook (https://github.com/owid/co2-data/blob/master/owid-co2-codebook.csv).
-3. [Power BI Dashboard] ( ).
+1. [Dataset](https://github.com/owid/co2-data) on GitHub.
+2. [Dataset](https://github.com/owid/co2-data/blob/master/owid-co2-codebook.csv)  codebook.
+3. [Power BI Dashboard]( ).
 
 # Process
 
