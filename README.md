@@ -1,4 +1,4 @@
-# Earth-CO2-Emissions
+# Earth-CO2-Emissions-Case-Study
 This project aims to thoroughly understand the worldwide carbon dioxide emissions landscape, the complexities of emissions and their significance in shaping our planet's future.
 
 Welcome to the carbon dioxide emission data analysis case study as a part of the Portfolio Project of DataAnalyzer-Pooja.
